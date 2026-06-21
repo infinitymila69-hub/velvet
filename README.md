@@ -7,7 +7,7 @@ A multi-profile, sensual AI companion platform inspired by ourdream.ai, designed
 - Expandable to web, mobile, and VR
 - One core identity system with many “faces” (personas, profiles) for your empire
 
-You (the owner) control all profiles, prompts, and boundaries.
+Enterprise master ltd - UK (the owner) control all profiles, prompts, and boundaries.
 
 ---
 
